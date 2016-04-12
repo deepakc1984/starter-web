@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Deepak C> -- <Developer> -- <dnt know>
 
 # THANKS
 
