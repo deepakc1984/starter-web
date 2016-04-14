@@ -9,6 +9,7 @@ This is example is to show different parts of the Git repo and various commands.
 ## Purpose
 
 As stated above the prupose is to learn Git. Adding a line for rebasing example.
+Making some more additions... 
 
 ## Deployment
 
